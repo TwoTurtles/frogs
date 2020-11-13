@@ -1,11 +1,11 @@
 {
-  "name": "bootstrap4",
+  "name": "frogs",
   "version": "0.0.2",
-  "description": "Assets for my Bootstrap 4: Essential Training Course",
+  "description": "Testing",
   "scripts": {
     "start": "browser-sync start --server 'builds/bootstrap' --files ./builds/bootstrap --no-notify"
   },
-  "author": "Ray Villalobos",
+  "author": "",
   "devDependencies": {
     "browser-sync": "^2.26.7"
   }
