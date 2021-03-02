@@ -1,0 +1,12 @@
+{
+  "name": "frogs",
+  "version": "0.0.2",
+  "description": "Testing",
+  "scripts": {
+    "start": "browser-sync start --server 'builds/bootstrap' --files ./builds/bootstrap --no-notify"
+  },
+  "author": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
