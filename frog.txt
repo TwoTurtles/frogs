@@ -1,7 +1,6 @@
 I am a green frog 
 Proud and tall 
 See how I jump and bounce around
-<<<<<<< HEAD
 yay
 =======
 
